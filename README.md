@@ -10,10 +10,10 @@ Initially we seek only to achieve parity between the original Matlab RISMAT and 
 
 The original Matlab code will be modified to only to ensure enduring compatibility with the always evolving Matlab environment, bugfixes (if any), and a small modification to save validation data sets from the original code.
 
-Note that we are maintaining two branches: 
+Note that we are maintaining two *main* branches: 
 
-- mlMain--a branch with the original code
-- main--the main development branch with the python code
+- mlMain--a branch with the original ML code and a few updates
+- main--the main development branch with only the python code
 
 
 It is envisioned that most users will be interested only in the code on main
