@@ -2,7 +2,7 @@ function iConstSpending = iConstSpending_create( )
   % create a constant spending income data structure
 
   % amount invested
-     iConstSpending.investedAmount = 100000;   
+     iConstSpending.investedAmount = 5e6;   
 
   % proportion of initial investment spent in first year
        iConstSpending.initialProportionSpent = 0.040;

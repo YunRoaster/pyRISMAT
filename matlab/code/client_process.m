@@ -2,6 +2,7 @@
 
    % make entire screen white
     ss = get(0,'screensize');
+    ss = [1 1 1024 768];
     figwhite = figure;
     set(gcf,'position',ss);
     set(gcf,'color',[1 1 1]);

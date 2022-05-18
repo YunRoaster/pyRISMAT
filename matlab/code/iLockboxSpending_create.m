@@ -2,7 +2,7 @@ function iLockboxSpending =  iLockboxSpending_create( );
   % create a lockbox spending data structure
   
   % amount invested
-     iLockboxSpending.investedAmount = 100000;   
+     iLockboxSpending.investedAmount = 500000;   
 
   % relative payments from lockboxes: size(2,client number of years)
   %   row 1: tips
